@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on in anything I can contribute
 - 📫 How to reach me:
 --Mail: capjeronimo@gmail.com
---Discord: Robert#6990
 
 <!---
 JCapchian/JCapchian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
